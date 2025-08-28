@@ -40,7 +40,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REPLY": {
@@ -166,7 +166,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,😂, 🤣,🔥"
     },
 
     "ANTI_DEL_PATH": {
@@ -208,7 +208,7 @@
     "CHATBOT": {
       "description": "Make it true if you want AI chatbot responses enabled.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
   },
 
